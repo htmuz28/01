@@ -52,6 +52,13 @@ body {
   align-items: center;
 }
 
+.kiji2{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .info {
   width: 360px;
   margin-left: auto;
@@ -182,12 +189,3 @@ footer {
   color: gray;
 }
 
-/* 郢ｧ�ｹ郢晄ｧｭ�ｽ */
-@media screen and(max-width: 480px) {
-  .content-sm {
-    margin: 0;
-    align-items: center;
-    margin-bottom: 10px;
-    margin-top: 10px;
-
-}
