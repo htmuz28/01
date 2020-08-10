@@ -49,14 +49,21 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
 }
 
 .kiji2{
   margin: 0;
   display: flex;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
+}
+
+.kiji3{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .kijithum{
