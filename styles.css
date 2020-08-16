@@ -41,7 +41,16 @@ body {
   margin: 0;
   margin-left: auto;
   margin-right: auto;
-  background-color: #fff8dc;
+  background-color: #7fffd4;;
+  text-align: center;
+}
+
+.content2 {
+  width: 360px;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff8dc;;
   text-align: center;
 }
 
